@@ -1,0 +1,7 @@
+node_modules/
+.env
+dist/
+target/
+__pycache__/
+*.log
+.vscode/settings.json
